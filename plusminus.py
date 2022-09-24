@@ -31,3 +31,13 @@ if __name__ == '__main__':
     arr = list(map(int, input().rstrip().split()))
 
     plusMinus(arr)
+
+    
+    
+# sample input
+# [1,1,0,-1,-1,-1]
+
+#output
+# positive = 2/6
+# negative = 3/6
+# zero = 1/6
